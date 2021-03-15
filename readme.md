@@ -99,10 +99,10 @@ Montar o request
 Realizar o request
 
 **3 - Assert - Validações**<br/>
-3.1 - Content-type
-3.2 - StatusCode
-3.3 - Esquema ( Objeto ) = Esqueleto do Endpoint
-3.4 - Objetivo do Endpoint / teste **( Levantar com o time )**
+3.1 - Content-type<br/>
+3.2 - StatusCode<br/>
+3.3 - Esquema ( Objeto ) = Esqueleto do Endpoint<br/>
+3.4 - Objetivo do Endpoint / teste **( Levantar com o time )**<br/>
 
 #### Considerações
 1 - Nomes de class, metodo e variaveis são MEGA importante, ficar atento.<br/>

@@ -62,16 +62,18 @@ framework [RestAssured](https://rest-assured.io/) em [Java](https://github.com/r
 
 ### Arquitetura
 
+<img src="https://github.com/DINO69/rest-assured/blob/main/src/main/resources/imgs/arquitetura.png" title="Estrutura de pasta do projeto">
+
 #### Pacotes
 
-* [builders]() onde se encontra as classes responsáveis por construir todos os RequestSpecification, utilizados nos
+* [builders](https://github.com/DINO69/rest-assured/tree/main/src/main/java/reqres/builders) onde se encontra as classes responsáveis por construir todos os RequestSpecification, utilizados nos
   testes.
-* [models]() onde se encontra todas as classes que representam os modelos de dados utilizados nos endpoint.
-* [jsons]() onde se encontra os schema-json que são validados nos testes.
+* [models](https://github.com/DINO69/rest-assured/tree/main/src/main/java/reqres/models) onde se encontra todas as classes que representam os modelos de dados utilizados nos endpoint.
+* [jsons](https://github.com/DINO69/rest-assured/tree/main/src/main/resources/jsons) onde se encontra os schema-json que são validados nos testes.
 
 #### Execução
 
-* Executar o arquivo [UsersTestes.java]() projeto de teste utilizando JUnit5
+* Executar o arquivo [UsersTestes.java](https://github.com/DINO69/rest-assured/blob/main/src/main/java/reqres/UsersTestes.java) projeto de teste utilizando JUnit5
 
 ### Sugestão
 
